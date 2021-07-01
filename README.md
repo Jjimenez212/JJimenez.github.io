@@ -8,4 +8,4 @@ Start by getting at least one pacman positioned and viewable.
 
 <img src="PacMan1.png">
 
-<a>starter.html</a>
+
